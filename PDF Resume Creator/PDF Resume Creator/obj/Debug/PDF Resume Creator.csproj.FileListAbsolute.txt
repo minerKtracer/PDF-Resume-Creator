@@ -1,1 +1,11 @@
 C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.exe.config
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.csprojResolveAssemblyReference.cache
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF_Resume_Creator.PDFGen.resources
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF_Resume_Creator.Properties.Resources.resources
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.csproj.GenerateResource.Cache
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.exe
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\PDF Resume Creator.pdb
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.exe
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.pdb
