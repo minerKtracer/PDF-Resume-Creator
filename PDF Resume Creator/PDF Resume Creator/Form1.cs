@@ -3,10 +3,16 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using iTextSharp;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 
 namespace PDF_Resume_Creator
 {
@@ -64,6 +70,13 @@ namespace PDF_Resume_Creator
         }
 
         private void Read_Click(object sender, EventArgs e)
+        {
+            var pathOfJSONFile = @"C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\pdfresume.json";
+            string jsonReadFile = File.ReadAllText(pathOfJSONFile);
+            ReadBx.Text = jsonReadFile;
+        }
+
+        private void Convert_Click(object sender, EventArgs e)
         {
 
         }

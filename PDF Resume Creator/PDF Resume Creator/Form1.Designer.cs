@@ -93,6 +93,7 @@
             this.Convert.TabIndex = 33;
             this.Convert.Text = "Convert Json File";
             this.Convert.UseVisualStyleBackColor = true;
+            this.Convert.Click += new System.EventHandler(this.Convert_Click);
             // 
             // Read
             // 
