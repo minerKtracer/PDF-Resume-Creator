@@ -38,6 +38,7 @@
             this.ReadBx = new System.Windows.Forms.TextBox();
             this.FirstName1 = new System.Windows.Forms.TextBox();
             this.Gpdf = new System.Windows.Forms.Button();
+            this.CharR = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // LBpsc
@@ -125,12 +126,20 @@
             // Gpdf
             // 
             this.Gpdf.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.Gpdf.Location = new System.Drawing.Point(680, 318);
+            this.Gpdf.Location = new System.Drawing.Point(668, 364);
             this.Gpdf.Name = "Gpdf";
             this.Gpdf.Size = new System.Drawing.Size(96, 34);
             this.Gpdf.TabIndex = 27;
             this.Gpdf.Text = "Generate PDF";
             this.Gpdf.UseVisualStyleBackColor = true;
+            // 
+            // CharR
+            // 
+            this.CharR.Location = new System.Drawing.Point(587, 272);
+            this.CharR.Multiline = true;
+            this.CharR.Name = "CharR";
+            this.CharR.Size = new System.Drawing.Size(237, 71);
+            this.CharR.TabIndex = 38;
             // 
             // PDFGen
             // 
@@ -138,6 +147,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SlateGray;
             this.ClientSize = new System.Drawing.Size(858, 431);
+            this.Controls.Add(this.CharR);
             this.Controls.Add(this.achievements6);
             this.Controls.Add(this.skills5);
             this.Controls.Add(this.Education8);
@@ -170,6 +180,7 @@
         private System.Windows.Forms.TextBox ReadBx;
         private System.Windows.Forms.TextBox FirstName1;
         private System.Windows.Forms.Button Gpdf;
+        private System.Windows.Forms.TextBox CharR;
     }
 }
 

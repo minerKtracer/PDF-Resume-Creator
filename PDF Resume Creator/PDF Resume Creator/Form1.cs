@@ -57,6 +57,9 @@ namespace PDF_Resume_Creator
             public string Achievement2 { get; set; }
             public string Achievement3 { get; set; }
             public string Achievement4 { get; set; }
+            public string Name { get; set; }
+            public string Specification { get; set; }
+            public string PNumber { get; set; }
         }
 
         private void label6_Click(object sender, EventArgs e)
@@ -78,7 +81,22 @@ namespace PDF_Resume_Creator
 
         private void Convert_Click(object sender, EventArgs e)
         {
+            try
+            {
+                var pathOfJSONFile = @"C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\pdfresume.json";
+                string jsonReadFile = File.ReadAllText(pathOfJSONFile);
+                PDFResume convert = JsonConvert.DeserializeObject<PDFResume>(jsonReadFile);
+                FirstName1.Text = convert.FirstName + " " + convert.LastName;
+                BasicDetails3.Text = convert.PhoneNumber + "\n" + convert.Email + "\n" + convert.Address + "\n";
+                Education8.Text = convert.Year + " " + convert.Course + "\n" + convert.School1 + "\n" + convert.Address1 + "\n" + "\n" + convert.Year1 + " " + convert.School2 + "\n" + convert.Strand + "\n" + convert.Address2 + "\n" + "\n" + convert.Year2 + " " + convert.School3 + "\n" + convert.Address3 + "\n" + "\n" + convert.Year3 + " " + convert.School4 + "\n" + convert.Address4 + "\n";
+                skills5.Text = convert.Skill1 + "\n" + convert.Skill2 + "\n" + convert.Skill3 + "\n" + convert.Skill4 + "\n" + convert.Skill5 + "\n";
+                achievements6.Text = convert.Achievement1 + "\n" + convert.Achievement2 + "\n" + convert.Achievement3 + "\n" + convert.Achievement4 + "\n";
+                CharR.Text = convert.Name + "\n" + convert.Specification + "\n" + convert.PNumber + "\n";
+            }
+            catch (Exception)
+            {
 
+            }
         }
     }
 }
