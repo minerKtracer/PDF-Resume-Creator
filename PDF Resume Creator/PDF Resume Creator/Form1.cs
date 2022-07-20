@@ -133,5 +133,21 @@ namespace PDF_Resume_Creator
 
             MessageBox.Show("Done");
         }
+
+        private void BasicDetails3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EMenu_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+
+        private void PMenu_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Created by Kylene Shane M. Varona from BSCOE 1-5", "BASIC INFO");
+        }
     }
 }
