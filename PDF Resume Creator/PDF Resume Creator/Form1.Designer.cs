@@ -132,6 +132,7 @@
             this.Gpdf.TabIndex = 27;
             this.Gpdf.Text = "Generate PDF";
             this.Gpdf.UseVisualStyleBackColor = true;
+            this.Gpdf.Click += new System.EventHandler(this.Gpdf_Click);
             // 
             // CharR
             // 
