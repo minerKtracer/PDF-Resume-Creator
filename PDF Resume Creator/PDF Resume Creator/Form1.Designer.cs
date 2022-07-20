@@ -184,7 +184,7 @@
             // EMenu
             // 
             this.EMenu.Name = "EMenu";
-            this.EMenu.Size = new System.Drawing.Size(152, 22);
+            this.EMenu.Size = new System.Drawing.Size(97, 22);
             this.EMenu.Text = "Exit";
             this.EMenu.Click += new System.EventHandler(this.EMenu_Click);
             // 
