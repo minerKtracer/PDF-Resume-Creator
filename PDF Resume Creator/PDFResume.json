@@ -1,0 +1,32 @@
+{
+	"FirstName": "Kylene Shane",
+	"LastName": "Varona",
+    "Address": "#19 Vicente Cruz St., Brgy. 424, Samplaloc, Manila",
+    "PhoneNumber": "+639309046223",
+    "Email": "kyleneshane28@gmail.com",
+
+    "Year": "2021-Present",
+    "Course": "Bachelor of Science in Computer Engineering",
+    "School1": "Polytechnic University of the Philippines",
+    "Address1": "Anonas St., Sta. Mesa, 1016 Manila",
+    "Year1": "2019-2021",
+    "School2": "Central Colleges of the Philippines",
+    "Strand": "Science Technology Engineering and Mathematics",
+    "Address2": "Aurora Blvd., Quezon City",
+	"Year2": "2015-2019",
+	"School3": "Quezon City High School",
+    "Address3": "Sct Ybardolaza St., Diliman, Quezon City",
+	"Year3": "2009-2015",
+	"School4": "P.Tuazon Elementary School",
+    "Address4": "P. Tuazon Blvd., Quezon City",
+
+	"Skill1": "Computer Software and Hardware ",
+	"Skill2": "Intrapersonal Communication Skills",
+	"Skill3": "Teamwork",
+	"Skill4": "Customer Service",
+	"Skill5": "Problem-solving",
+	"Achievement1": "2014 Science Investigatory Project (District to Division level)",
+    "Achievement2": "With Honors (Senior High School)",
+	"Achievement3": "With Honors (Junior High School)",
+	"Achievement4": "With Honors (Elementary)"
+}
