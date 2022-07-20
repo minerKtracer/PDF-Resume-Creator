@@ -16,6 +16,42 @@ namespace PDF_Resume_Creator
         {
             InitializeComponent();
         }
+        public class PDFResume
+        {
+            public string FirstName { get; set; }
+            public string LastName { get; set; }
+            public string Address { get; set; }
+            public string PhoneNumber { get; set; }
+            public string Email { get; set; }
+
+            public string Year { get; set; }
+            public string Course { get; set; }
+            public string School1 { get; set; }
+            public string Address1 { get; set; }
+
+            public string Year1 { get; set; }
+            public string School2 { get; set; }
+            public string Strand { get; set; }
+            public string Address2 { get; set; }
+
+            public string Year2 { get; set; }
+            public string School3 { get; set; }
+            public string Address3 { get; set; }
+
+            public string Year3 { get; set; }
+            public string School4 { get; set; }
+            public string Address4 { get; set; }
+
+            public string Skill1 { get; set; }
+            public string Skill2 { get; set; }
+            public string Skill3 { get; set; }
+            public string Skill4 { get; set; }
+            public string Skill5 { get; set; }
+            public string Achievement1 { get; set; }
+            public string Achievement2 { get; set; }
+            public string Achievement3 { get; set; }
+            public string Achievement4 { get; set; }
+        }
 
         private void label6_Click(object sender, EventArgs e)
         {
@@ -23,6 +59,11 @@ namespace PDF_Resume_Creator
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Read_Click(object sender, EventArgs e)
         {
 
         }
