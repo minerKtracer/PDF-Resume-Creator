@@ -12,3 +12,8 @@ C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume 
 C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.exe
 C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.pdb
 C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\obj\Debug\PDF Resume Creator.csprojResolveAssemblyReference.cache
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\kylene shane varona\Desktop\ASSIGNMENT 6\PDF Resume Creator\PDF Resume Creator\bin\Debug\Syncfusion.Pdf.Base.xml
